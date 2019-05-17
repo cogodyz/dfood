@@ -146,6 +146,47 @@ main .radiobutton{
     border-radius: 10px;
 }
 
+.Productos2Container {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px rgb(255, 255, 255) dotted;
+    background-color: rgba(11, 4, 27, 0.671);
+    text-align: center;
+    color: white;
+}
+
+.Productos2Container img {
+    border-radius: 10px;
+}
+
+.Productos3Container {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px rgb(255, 255, 255) dotted;
+    background-color: rgba(11, 4, 27, 0.671);
+    text-align: center;
+    color: white;
+}
+
+.Productos3Container img {
+    border-radius: 10px;
+}
+
+.Productos4Container {
+    padding: 15px;
+    border-radius: 10px;
+    margin: 10px;
+    border: 2px rgb(255, 255, 255) dotted;
+    background-color: rgba(11, 4, 27, 0.671);
+    text-align: center;
+    color: white;
+}
+
+.Productos4Container img {
+    border-radius: 10px;
+}
 header{
     background-color:rgb(175, 175, 175);
 }
